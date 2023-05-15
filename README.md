@@ -1,5 +1,6 @@
 # LAGOS PROPERTIES 
 
+![](bluerail.jpeg)
 
 ## LAGOS STATE:
 
