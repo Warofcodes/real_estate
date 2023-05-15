@@ -23,3 +23,4 @@ Lagos or Lagos City (Nigerian English: /ˈleɪɡɒs/; Yoruba: Èkó) is the most
 Lagos geographical location is divided into two areas:
 * Island
 * Mainland
+
