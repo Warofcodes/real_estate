@@ -24,3 +24,10 @@ Lagos geographical location is divided into two areas:
 * Island
 * Mainland
 
+![](islandvsmainland.png)
+
+* There are more properties listed for rent on the island compared to the mainland.
+* This signals more people are focused on investing in real estate on the Lagos Island
+* About 43% of the properties listed are on the mainland
+
+---
