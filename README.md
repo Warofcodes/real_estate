@@ -12,7 +12,7 @@ Lagos or Lagos City (Nigerian English: /ˈleɪɡɒs/; Yoruba: Èkó) is the most
 
 ## LAGOS STATE RENTAL PROPERTIES :
 
-**This analysis is about Lagos state rental properties**
+**This analysis is on Lagos state rental properties**
 
 ---
 
@@ -31,5 +31,14 @@ Lagos geographical location is divided into two areas:
 * There are more properties listed for rent on the island compared to the mainland.
 * This signals more people are focused on investing in real estate on the Lagos Island
 * About 43% of the properties listed are on the mainland
-
+* The common price to rent properties on the island is N3,000,000
+* The common price to rent properties on the island is N1,500,000
 ---
+
+### RENTAL PROPERTY TYPES
+1. Private properties
+2. Commercial properties
+3. Land
+4. Co-working spaces
+
+![]()
