@@ -56,3 +56,10 @@ Island Properties             |  Mainland Properties
 
 * Mainland area has the highest percentage for commercial properties
 * Island area has the highest percentage for private properties
+
+### HOUSING
+![](housing.png)
+
+Generally, there are more 3 bedrooms apartments listed for rent in Lagos. Three bedrooms houses are either flats or duplex
+
+
