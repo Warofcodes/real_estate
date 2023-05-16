@@ -41,4 +41,18 @@ Lagos geographical location is divided into two areas:
 3. Land
 4. Co-working spaces
 
-![]()
+![](types.png)
+
+---
+* 89.6% of the listed properties are private properties which includes different types of houses, i.e duplex, flats, terrace
+* 8.8% are commercial properties like shops, warehouses and offices
+* About 1.5% of the properties are lands and co-working spaces
+
+
+Island Properties             |  Mainland Properties
+:-------------------------:|:-------------------------:
+![](island_type.png)  |  ![](island_type.png)
+
+
+* Mainland area has the highest percentage for commercial properties
+* Island area has the highest percentage for private properties
