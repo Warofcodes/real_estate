@@ -10,7 +10,7 @@ Lagos City is the most populous city in Nigeria as well as Africa with an estima
 
 
 
-## LAGOS STATE RENTAL PROPERTIES :
+## RENTAL PROPERTIES IN LAGOS:
 
 **This analysis is on Lagos state rental properties**
 
