@@ -61,5 +61,6 @@ Island Properties             |  Mainland Properties
 ![](housing.png)
 
 Generally, there are more 3 bedrooms apartments listed for rent in Lagos. Three bedrooms houses are either flats or duplex
+There are a total of 3,070 Duplex/Terrace listings, 739 Duplexes on the Mainland while there are 2,331 on the Island
 
 
