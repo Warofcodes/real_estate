@@ -60,7 +60,11 @@ Island Properties             |  Mainland Properties
 ### HOUSING
 ![](housing.png)
 
-Generally, there are more 3 bedrooms apartments listed for rent in Lagos. Three bedrooms houses are either flats or duplex
+Generally, there are more 3 bedrooms apartments listed for rent in Lagos. Three bedrooms houses are either flats or duplex.
 There are a total of 3,070 Duplex/Terrace listings, 739 Duplexes on the Mainland while there are 2,331 on the Island
 
 
+### RENTAL PRICES
+
+The average cost of rental properties on the Island is N3,000,0000
+The average cost of rental properties on the Mainlandis N1,500,000
