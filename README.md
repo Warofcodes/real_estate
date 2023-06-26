@@ -83,4 +83,5 @@ There are a total of 3,165 Duplex/Terrace listings, 749 Duplexes on the Mainland
 
 #### FOUR BEDROOM DUPLEX AND FLAT
 
-
+* The average price of rent for a four bedroom duplex is cheaper on the Island than the mainland which is due to the fact that there are more 4 bedroom duplexes on the Island than it is on the Mainland.
+* The average price on the Mainland stands at N5,000,000 while it is N4,000,000 on the Island.
